@@ -10,14 +10,14 @@
   <a href="https://www.linkedin.com/in/hakaslepehen/" target="_blank">
     <img alt="Pavel Petrov Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a/>
-  <a href="https://twitter.com/alexdolbun" target="_blank">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/alexdolbun?color=blue&label=FOLLOW%20ME&logo=twitter&style=for-the-badge">
+  <a href="https://twitter.com/PavelPetrov88" target="_blank">
+    <img alt="Pavel Petrov Twitter Follow" src="https://img.shields.io/twitter/follow/PavelPetrov88?color=blue&label=FOLLOW%20ME&logo=twitter&style=for-the-badge">
   <a/>
     </br>
   <strong> FOLLOW Community teammate who follow you back  </strong>
  </br>
   <a href="https://github.com/alexdolbun" target="_blank">
-    <img alt="Aleksei Dolgikh GitHub followers" src="https://img.shields.io/github/followers/HakasLepehen?label=FOLLOW%20Aleksei%20Dolgikh&logo=github&style=for-the-badge">
+    <img alt="Aleksei Dolgikh GitHub followers" src="https://img.shields.io/github/followers/alexdolbun?label=FOLLOW%20Aleksei%20Dolgikh&logo=github&style=for-the-badge">
   <a/>
   <a href="https://github.com/KhristenkoE" target="_blank">
     <img alt="KhristenkoE GitHub followers" src="https://img.shields.io/github/followers/KhristenkoE?label=FOLLOW%20KhristenkoE&logo=github&style=for-the-badge">
@@ -110,21 +110,42 @@
     - 📢📢🆘
     
 - 💬 Ask me about User support, Using Java and parsing websites
-<!-- - 📫 How to reach me: alexdolbun@icloud.com or <a href="https://alexdolbun.com" target="_blank">https://alexdolbun.com<a/>-->
+<!-- - 📫 How to reach me:  or <a href="https://.com" target="_blank">https://.com<a/>-->
 - ⚡ Fun fact: I love DISRUPT THE INDUSTRY 🦄🚀 or you could write it this way: Ḑ̵̠̫͇̮͓͗̐͋̍͘͝͠Í̷͓̖̈́̈͋̌̃̑͠S̶͚̙̱͍̙̤͑̊R̴̝̳̩̪̯͌͒Û̷̪̿͛͊̿̅̈̎̚P̶̨̡̫̫̙̳̞̖̝̉̎̀̈́̈́́̿ͅT̶͍̥̬̘̞̼͇̩̈̄̆̆̊̽͂̚̚ ̸̜͉̱̯̱͓̘͙̈́̄͂̉͐̔̍̉̏̂Ṯ̸̓͊Ḥ̴̪͖̘̫̲̞̗̿̓͌̆̓̉̏̍̕E̷͙̹̳̋̂̒̀̾͘̚ ̷͚̺̎͐I̵̧̜̬̳͕̍́͌́̏̔̅N̴̛̛̲̫̣̦͓̻̳͗̿́̅̓̑͌͝D̴̦̥̱̹̲̖͚̰̃̿̃͂̐̀̓̚Ų̸̡͙͔̂̔͆͗̈̅̾̕͝S̶̨̻͓̯̟͈̫̰̍̂͆̔T̸̢͎͈͎̗̺͙̠̘̓͑̏̎̆̈́̿̒R̵͈̗̜̙̹͂Ý̸̹͈̳͋̍͂
     
 ---
     
 My actually skills: JS / HTML / CSS
 
-You can see my stats here:
+## You can see my stats here 📈
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HakasLepehen)](https://github.com/HakasLepehen/github-readme-stats)
-
-And my using languages here: 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakasLepehen&langs_count=5)](https://github.com/HakasLepehen/github-readme-stats)
-
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+   <tr>
+    <td>
+      <a <href="https://github.com/HakasLepehen?tab=repositories" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=HakasLepehen&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Pavel Petrov github stats">
+      <a/>
+    </td>
+    <td>
+      <a href="https://github.com/HakasLepehen?tab=repositories" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakasLepehen&theme=github_dark&layout=compact&hide_border=true" alt="Pavel Petrov github language stats">
+      <a/>
+    </td>
+   </tr>
+  <tr>
+  <tr>
+    <td>
+      <a href="https://github.com/HakasLepehen?tab=repositories" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=HakasLepehen&theme=tokyonight_duo&hide_border=true" alt="Pavel Petrov streak stats">
+      <a/>
+    </td>
+    <td>
+      <a href="https://github.com/HakasLepehen?tab=repositories" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HakasLepehen&repo=alexdolbun&theme=github_dark&hide_border=true" alt="Pavel Petrov  Language usage time">
+      <a/>
+    </td>
+   </tr>
+</table>
 
 
 
