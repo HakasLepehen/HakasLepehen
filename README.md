@@ -141,7 +141,7 @@ My actually skills: JS / HTML / CSS
     </td>
     <td>
       <a href="https://github.com/HakasLepehen?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HakasLepehen&repo=alexdolbun&theme=github_dark&hide_border=true" alt="Pavel Petrov  Language usage time">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HakasLepehen&repo=pavel-petrov-landing-page&theme=github_dark&hide_border=true" alt="Pavel Petrov  Language usage time">
       <a/>
     </td>
    </tr>
